@@ -1,0 +1,8 @@
+c:\users\дарья\documents\visual studio 2015\Projects\Mita.Cat\Mita.Cat\bin\Debug\Mita.Cat.exe.config
+c:\users\дарья\documents\visual studio 2015\Projects\Mita.Cat\Mita.Cat\bin\Debug\Mita.Cat.exe
+c:\users\дарья\documents\visual studio 2015\Projects\Mita.Cat\Mita.Cat\bin\Debug\Mita.Cat.pdb
+c:\users\дарья\documents\visual studio 2015\Projects\Mita.Cat\Mita.Cat\bin\Debug\Model.dll
+c:\users\дарья\documents\visual studio 2015\Projects\Mita.Cat\Mita.Cat\bin\Debug\Model.pdb
+c:\users\дарья\documents\visual studio 2015\Projects\Mita.Cat\Mita.Cat\obj\Debug\Mita.Cat.csprojResolveAssemblyReference.cache
+c:\users\дарья\documents\visual studio 2015\Projects\Mita.Cat\Mita.Cat\obj\Debug\Mita.Cat.exe
+c:\users\дарья\documents\visual studio 2015\Projects\Mita.Cat\Mita.Cat\obj\Debug\Mita.Cat.pdb
